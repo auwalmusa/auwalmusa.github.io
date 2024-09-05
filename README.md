@@ -4,7 +4,7 @@
 
 **Email:** [auwal@waulmusa.com](mailto:auwal@waulmusa.com)  
 **LinkedIn:** [Auwal Musa](https://www.linkedin.com/in/auwal-musa/)  
-**Portfolio:** [Portfolio Link](www.auwalmusa.com)  
+**Portfolio:** [Portfolio Link](https://www.auwalmusa.com)  
 
 ---
 
