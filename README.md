@@ -1,6 +1,6 @@
 # Auwal Musa - Data Analyst 📊
 
-![Auwal Musa](https://github.com/auwalmusa/auwalmusa/blob/main/IMG_6787.JPEG)
+![Auwal Musa](https://github.com/auwalmusa/auwalmusa.github.io/blob/main/auwal.png)
 
 **Email:** [auwal@waulmusa.com](mailto:auwal@waulmusa.com)  
 **LinkedIn:** [Auwal Musa](https://www.linkedin.com/in/auwal-musa/)  
