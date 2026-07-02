@@ -4,11 +4,11 @@
   <img src="./auwal.png" alt="Auwal Musa" width="180" />
 </p>
 
-I turn messy operational data into insights that change decisions. Every project below follows the same discipline: a clear business problem, transparent methods, and a recommendation someone can act on.
+I turn messy operational data into insights that improve decisions. Every project below follows the same discipline: a clear business problem, transparent methods, and recommendations stakeholders can act on.
 
 <p align="left">
   <a href="https://auwalmusa.github.io"><img src="https://img.shields.io/badge/Portfolio-auwalmusa.github.io-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:auwal@waulmusa.com"><img src="https://img.shields.io/badge/Email-auwal%40waulmusa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:auwal@auwalmusa.com"><img src="https://img.shields.io/badge/Email-auwal%40auwalmusa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/auwal-musa/"><img src="https://img.shields.io/badge/LinkedIn-Auwal%20Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -77,7 +77,7 @@ Each project is documented end to end: problem statement, data, method, insight,
 ## Education & Certifications
 
 - **PhD**, UWE Bristol · **Chartered Chemist, MRSC** · **PGCert Data Science and AI**
-- **Data Analytics**, Le Wagon Ltd : intensive 12-week boot camp covering data extraction, SQL, visualisation, and machine learning
+- **Data Analytics**, Le Wagon Ltd: intensive 12-week boot camp covering data extraction, SQL, visualisation, and machine learning
 - **MBA in Food Security**, Business Schools Netherlands
 - **MSc in Environmental Sciences**, King Fahd University, Saudi Arabia
 
@@ -85,10 +85,10 @@ Each project is documented end to end: problem statement, data, method, insight,
 
 ## Contact Me
 
-Open to Data Analyst, Performance Analyst and Business Intelligence Analyst roles across the UK.
+Open to Data Analyst, Performance Analyst, and BI Analyst roles across the UK.
 
 <p align="left">
-  <a href="mailto:auwal@waulmusa.com"><img src="https://img.shields.io/badge/Email-auwal%40waulmusa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:auwal@auwalmusa.com"><img src="https://img.shields.io/badge/Email-auwal%40auwalmusa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/auwal-musa/"><img src="https://img.shields.io/badge/LinkedIn-Auwal%20Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://auwalmusa.github.io"><img src="https://img.shields.io/badge/Portfolio-auwalmusa.github.io-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
