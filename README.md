@@ -73,9 +73,9 @@ Each project is documented end to end: problem statement, data, method, insight,
 ## Education & Certifications
 
 - **PhD**, UWE Bristol · **Chartered Chemist, MRSC** · **PGCert Data Science and AI**
-- **Data Analytics**, Le Wagon (Aug 2024 - Nov 2024): intensive 12-week boot camp covering data extraction, SQL, visualisation, and machine learning
-- **MBA in Food Security**, Business Schools Netherlands (2017 - 2019)
-- **MSc in Environmental Sciences**, King Fahd University, Saudi Arabia (2013 - 2015)
+- **Data Analytics**, Le Wagon Ltd : intensive 12-week boot camp covering data extraction, SQL, visualisation, and machine learning
+- **MBA in Food Security**, Business Schools Netherlands
+- **MSc in Environmental Sciences**, King Fahd University, Saudi Arabia
 
 ---
 
