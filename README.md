@@ -88,7 +88,7 @@ Each project is documented end to end: problem statement, data, method, insight,
 Open to Data Analyst, Performance Analyst, and BI Analyst roles across the UK.
 
 <p align="left">
-  <a href="mailto:@musa.com"><img src="https://img.shields.io/badge/Email-%40musa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:auwal@auwalmusa.com"><img src="https://img.shields.io/badge/Email-%40musa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/-musa/"><img src="https://img.shields.io/badge/LinkedIn-%20Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://musa.github.io"><img src="https://img.shields.io/badge/Portfolio-musa.github.io-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
