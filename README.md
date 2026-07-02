@@ -1,5 +1,9 @@
 # Auwal Musa | Data Analyst
 
+<p align="center">
+  <img src="./auwal.png" alt="Auwal Musa" width="180" />
+</p>
+
 I turn messy operational data into insights that change decisions. Every project below follows the same discipline: a clear business problem, transparent methods, and a recommendation someone can act on.
 
 <p align="left">
