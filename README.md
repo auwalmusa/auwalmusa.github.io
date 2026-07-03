@@ -79,12 +79,6 @@ Each project is documented end to end: problem statement, data, method, insight,
 - **MBA in Food Security**, Business Schools Netherlands (2017 - 2019)
 - **MSc in Environmental Sciences**, King Fahd University, Saudi Arabia (2013 - 2015)
 
-### Certifications
-
-- BCG Data Science Job Simulation (2024)
-- Cognizant AI Job Simulation (2024)
-- British Airways Data Science Simulation (2024)
-
 ---
 
 ## Contact Me
