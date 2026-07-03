@@ -137,7 +137,7 @@
   <!-- ============ NAV ============ -->
   <header class="sticky top-0 z-50 backdrop-blur-md" style="background: color-mix(in srgb, var(--bg-primary) 85%, transparent); border-bottom: 1px solid var(--border);">
     <nav class="max-w-6xl mx-auto px-5 py-4 flex items-center justify-between" aria-label="Main navigation">
-      <a href="#top" class="font-display font-bold text-lg" style="color: var(--text-primary);">AM<span style="color: var(--accent);">.</span></a>
+      <a href="#top" class="font-display font-bold text-lg" style="color: var(--text-primary);">AMW<span style="color: var(--accent);">.</span></a>
       <div class="hidden md:flex items-center gap-8 text-sm font-medium" style="color: var(--text-secondary);">
         <a href="#projects" class="hover:opacity-70 transition">Projects</a>
         <a href="#process" class="hover:opacity-70 transition">How I Work</a>
@@ -243,18 +243,19 @@
         <!-- Project 3: NHS (in progress) -->
         <article class="card p-7 flex flex-col" data-animate="fade-up" data-delay="150">
           <div class="flex flex-wrap gap-2 mb-4">
-            <span class="tag">Power BI</span><span class="tag">SQL</span><span class="tag">Public NHS Data</span>
-            <span class="tag" style="background: var(--bg-accent); color: var(--text-secondary);">In Progress</span>
+            <span class="tag">Python</span><span class="tag">SQL</span><span class="tag">Power BI</span><span class="tag">RAP</span>
           </div>
-          <h3 class="font-display font-bold text-xl mb-4">NHS A&amp;E Performance Analysis</h3>
+          <h3 class="font-display font-bold text-xl mb-4">NHS A&amp;E Winter Performance Analysis</h3>
           <dl class="space-y-3 text-sm flex-1" style="color: var(--text-secondary);">
-            <div><dt class="framework-label">Problem</dt><dd>Which NHS trusts are deteriorating against the four-hour A&amp;E standard, and what patterns explain the divergence between trusts?</dd></div>
-            <div><dt class="framework-label">Data</dt><dd>NHS England open data: monthly A&amp;E attendances and performance by trust.</dd></div>
-            <div><dt class="framework-label">Method</dt><dd>SQL for shaping and querying, Power BI for an interactive performance dashboard with trust-level drilldown.</dd></div>
-            <div><dt class="framework-label">Status</dt><dd>In build. The dashboard and full write-up will be linked here on completion.</dd></div>
+            <div><dt class="framework-label">Problem</dt><dd>Which trusts deteriorated most under winter pressure, which recovered fastest, and where should improvement support be targeted before next winter?</dd></div>
+            <div><dt class="framework-label">Data</dt><dd>NHS England open data: 121 trusts, six months (Oct 2025 to Mar 2026), built as a Reproducible Analytical Pipeline with a tested Python cleaning stage.</dd></div>
+            <div><dt class="framework-label">Method</dt><dd>Python pipeline with unit tests, SQL analysis (CTEs, window functions), and a two-page interactive Power BI dashboard with trust drill-down.</dd></div>
+            <div><dt class="framework-label">Insight</dt><dd>Performance bottomed at 57.0% in January while 12-hour waits spiked 41%, yet attendances fell 1.5%: correlation between volume and performance change was 0.004. A capacity problem, not a demand problem.</dd></div>
+            <div><dt class="framework-label">Recommendation</dt><dd>Target flow and capacity interventions, not demand management; prioritise the South West and the trusts with the steepest January collapse.</dd></div>
           </dl>
           <div class="mt-6 flex gap-3">
-            <span class="btn-secondary px-4 py-2 text-sm font-medium opacity-60 cursor-default" aria-disabled="true">Coming Soon</span>
+            <a href="https://github.com/auwalmusa/nhs-ae-performance-analysis" target="_blank" rel="noopener" class="btn-primary px-4 py-2 text-sm font-medium">GitHub Repo</a>
+            <a href="https://github.com/auwalmusa/nhs-ae-performance-analysis#dashboard" target="_blank" rel="noopener" class="btn-secondary px-4 py-2 text-sm font-medium">Dashboard</a>
           </div>
         </article>
 
